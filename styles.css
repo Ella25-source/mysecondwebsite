@@ -1,0 +1,39 @@
+body {
+ background-color:#adc6ed;
+}
+
+ h1{
+  color:blue;
+}
+
+p{
+  color:green
+}
+
+h2{
+  color:red;
+}
+
+div#main {
+  background-color:#f5f2c6;
+  width:75%;
+}
+
+div#title{
+  text-align:center;
+  font-size: 32px;
+  background-color: #c9d8f0;
+}
+div#container{
+  background-color: white;
+
+}
+
+div.section{
+  color: white;
+  background-color: pink;
+  font-size: 32px;
+  width: 33%;
+  float:left;
+
+}
